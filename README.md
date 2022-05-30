@@ -1,4 +1,6 @@
-## Hi there 👋
+
+
+## 🌞 Hey, Sunshine!
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenglish721&count_bg=%23CCF008&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -11,7 +13,7 @@
 - 🌱 I’m currently learning Data analysis, Statistics, Machine learning
 - 👯 I'm looking for people to collaborate with on Kaggle Competitions
 - 📫 How to reach me: english7212@gmail.com
-- ⚡ Fun fact: finally got 20 hits
+- ⚡ Fun fact: finally got 40 hits, but all was me XD
 
 <br/><br/>
 
@@ -24,6 +26,7 @@
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 
-<br/><br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=english721&show_icons=true&theme=buefy)
+<br/><br/><br/><br/>
+## 🐢 Slowly but Steady
+<a href="https://github.com/english721"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=english721&show_icons=true&theme=buefy&layout=compact" /></a> 
+<a href="https://github.com/english721"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=english721&layout=compact&theme=vue" /></a> 
