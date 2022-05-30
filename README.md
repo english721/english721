@@ -29,4 +29,4 @@
 <br/><br/><br/><br/>
 ## 🐢 Slowly but Steady
 <a href="https://github.com/english721"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=english721&show_icons=true&theme=buefy&layout=compact" /></a> 
-<a href="https://github.com/english721"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=english721&layout=compact&theme=vue" /></a> 
+<a href="https://github.com/english721"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=english721&layout=compact&theme=vue&hide=jupyter%20notebook" /></a> 
