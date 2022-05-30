@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there 👋
+<br/>
 
-<!--
-**english721/english721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenglish721&count_bg=%23CCF008&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## 😁 ABOUT ME
+
+- 🌱 I’m currently learning Data analysis, Statistics, Machine learning
+- 👯 I'm looking for people to collaborate with on Kaggle Competitions
+- 📫 How to reach me: english7212@gmail.com
+- ⚡ Fun fact: finally got 20 hits
+
+<br/><br/>
+
+## 💻 STACK
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Adobe XD" src ="https://img.shields.io/badge/Adobe XD-FF61F6.svg?&style=for-the-badge&logo=Adobe XD&logoColor=white"/>
+<img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> 
+<img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+
+<br/><br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=english721&show_icons=true&theme=buefy)
